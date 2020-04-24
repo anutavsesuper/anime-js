@@ -32,3 +32,13 @@ iframe {
   left: 70%;
   transform: translate(-50%, -50%);
 }
+
+@media (max-width: 1680px) {}
+@media (max-width: 1440px) {}
+@media (max-width: 1366px) {}
+@media (max-width: 1280px) {}
+@media (max-width: 1024px) {}
+@media (max-width: 768px) {}
+@media (max-width: 414px) {}
+@media (max-width: 375px) {}
+@media (max-width: 320px) {}
